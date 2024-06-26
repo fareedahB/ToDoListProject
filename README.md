@@ -1,5 +1,5 @@
 # ToDo List Application
-This is a Basic Python Tkinter-based ToDo list app for managing tasks with add, delete, edit, mark done/undone, delete completed, and file save/open features.
+This is a Python Tkinter-based ToDo list app for managing tasks with add, delete, edit, mark done/undone, delete completed, and file save/open features.
 
 ## Features
 
