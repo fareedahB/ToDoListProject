@@ -11,12 +11,10 @@ This is a Python Tkinter-based ToDo list app for managing tasks with add, delete
 - Open a saved list from a file
 - Clear the entire list
 
-## Getting Started
+## Installation and Usage
 1. Clone the repository to your local machine: https://github.com/fareedahb/ToDoListProject.git
-
-## Usage
-1. Run the application
-2. Interact with the ToDo list:
+2. Run the application
+3. Interact with the ToDo list:
    - Add tasks using the entry box and "Add Task" button.
    - Delete tasks using the "Delete Task" button.
    - Mark tasks as done/undone using the respective buttons.
