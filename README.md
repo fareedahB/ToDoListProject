@@ -26,4 +26,4 @@ This is a Python Tkinter-based ToDo list app for managing tasks with add, delete
 
   ## Screenshots
   ![ToDoList](https://github.com/fareedahB/ToDoListProject/assets/123029866/8af7eac5-0fa1-4ce3-b7cb-7797db4b08b6)
-![ToDoList](https://github.com/fareedahB/ToDoListProject/assets/123029866/8af7eac5-0fa1-4ce3-b7cb-7797db4b08b6)
+
